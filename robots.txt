@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nilobygg.se/sitemap.xml

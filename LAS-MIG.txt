@@ -1,0 +1,15 @@
+NILO Bygg – färdig webbplats, 25 november 2026
+
+Ladda upp ALLA filer i den här mappen till GitHub eller webbhotellets public_html. Behåll mappen assets och alla filnamn. index.html är startsidan. Ingen installation eller byggprocess behövs.
+
+GitHub Pages: ladda upp mappens innehåll i repositoryts rot och välj Settings > Pages > Deploy from a branch. Relativa länkar och bilder fungerar även under en undermapp.
+
+Innehåll: 13 HTML-sidor, lokala bilder och typsnitt, mobilmeny, telefon- och mejllänkar, sidtitlar, beskrivningar, strukturerade uppgifter, sitemap.xml och robots.txt.
+
+SEO-adresserna är inställda för https://nilobygg.se. Om en annan domän ska användas behöver canonical, Open Graph, schema, sitemap.xml och robots.txt ändras före publicering. SEO ger inga garantier om placering i Google.
+
+Kontakt sker via telefon och e-post. Mejllänkar öppnar besökarens mejlprogram. Inga påhittade skickat-bekräftelser eller okopplade formulär används.
+
+Egna projektbilder och logotyp från NILO. Tre korta kundomdömen är återgivna med länk till originalet. Inga obekräftade stjärnbetyg eller antal används.
+
+Uppdatering 2026-11-25: frilagd transparent logotyp, fast ljus meny på alla sidor, förfinad mobilnavigation och nya layoutdetaljer. Alla publiceringsfiler finns i denna mapp.
